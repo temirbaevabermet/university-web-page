@@ -11,7 +11,7 @@ function changeHeader(){
 }
 
 const imgElement = document.querySelector("img");
-const img1URL = "images/Ala-Too_International_University_Seal.png";
+const img1URL = "images/alatoo.png";
 const img2URL = "images/nature-photo.webp";
 function changePhoto(event){
     let current = imgElement.getAttribute("src");
