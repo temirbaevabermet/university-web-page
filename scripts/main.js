@@ -23,12 +23,4 @@ function changePhoto(event){
     }
 }
 imgElement.onclick = changePhoto;
-/*<meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:domain" content="temirbaevabermet.github.io" />
-    <meta name="twitter:url" content="https://temirbaevabermet.github.io/university-web-page/" />
-    <meta name="twitter:title" content="Alatoo International University" />
-    <meta name="twitter:description" content="Ala-Too International University (AIU) was established in 1996 and it is located in Bishkek, the Kyrgyz
-    Republic. Our university consists of five blocks, where there are classrooms and laboratories
-    equipped with the Internet and modern interactive whiteboards." />
-    <meta name="twitter:image" content="images\ALATOO-LOGO-2.webp" />*/
    
